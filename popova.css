@@ -6,6 +6,10 @@ h2 {
 }
 p { color: purple; font-size: 26px; }
 ol { color: purple; font-size: 26px; }
+a:link {color:#FF0000;}
+a:visited {color:#00FF00;}
+a:hover {color:#FF00FF;}
+a:active {color:#0000FF;}
 body {
 background-image: url(5be93c759a0e916707142b7f.png);
 background-size: cover
