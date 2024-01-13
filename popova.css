@@ -11,3 +11,9 @@ background-image: url(5be93c759a0e916707142b7f.png);
 background-size: cover
 background-attachment: fixed ;
 }
+img {
+   transition: transform .3s ease-in-out;
+}
+img: hover #img1, img: focus #img1 {
+   transform: scale(1.5);
+}
