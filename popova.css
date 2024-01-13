@@ -14,6 +14,6 @@ background-attachment: fixed ;
 img {
    transition: transform .3s ease-in-out;
 }
-img: hover #img1, img: focus #img1 {
+a: hover #img1, a: focus #img1 {
    transform: scale(1.5);
 }
