@@ -18,14 +18,14 @@ a:hover #img1, a:focus #img1 {
    transform: scale(1.5);
 }
 a:hover #img2, a:focus #img2 {
-   transform: scale(1.5);
+   transform: scale(1.5) rotate(-3deg);
 }
 a:hover #img3, a:focus #img3 {
-   transform: scale(1.5);
+   transform: scale(1.5) rotate(5deg);
 }
 a:hover #img4, a:focus #img4 {
-   transform: scale(1.5);
+   transform: scale(1.5) rotate(-7deg);
 }
 a:hover #img5, a:focus #img5 {
-   transform: scale(1.5);
+   transform: scale(1.5) rotate(2deg);
 }
