@@ -11,7 +11,7 @@ background-image: url(5be93c759a0e916707142b7f.png);
 background-size: cover
 background-attachment: fixed ;
 }
-ease {
+#ease {
 	-webkit-transition-timing-function: ease;
 	-moz-transition-timing-function: ease;
 	-o-transition-timing-function: ease;
