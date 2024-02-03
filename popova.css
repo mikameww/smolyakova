@@ -29,3 +29,11 @@ a:hover #img4, a:focus #img4 {
 a:hover #img5, a:focus #img5 {
    transform: scale(1.5) rotate(2deg);
 }
+
+#myImg {
+	height: 300px;
+  transform: scaleX(-1)
+  }
+#MyImg {
+  height: 300px;
+  }
