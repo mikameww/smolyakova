@@ -31,9 +31,9 @@ a:hover #img5, a:focus #img5 {
 }
 
 #myImg {
-	height: 50px;
+	height: 300px;
   transform: scaleX(-1)
   }
 #MyImg {
-  height: 50px;
+  height: 300px;
   }
